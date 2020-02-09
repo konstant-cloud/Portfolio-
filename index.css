@@ -26,6 +26,7 @@ ul>li{
 #h3{
     color: blue;
     text-align: center;
+    text-decoration: underline;
     
 }
 #ul{
@@ -39,10 +40,12 @@ ul>li{
 #me{
     text-align: center;
     color: blue;
+    text-decoration: underline;
 }
 #him{
     text-align: center;
     color:blue;
+    text-decoration: underline;
 }
 #image{
     margin-left: 390px;
@@ -51,6 +54,7 @@ ul>li{
 #work{
     color: blue;
     text-align: center;
+    text-decoration: underline;
 }
 #I{
     background-color: grey;
@@ -64,6 +68,7 @@ ul>li{
 #reason{
     color: blue;
     text-align: center;
+    text-decoration: underline;
 }
 #the{
     background-color: grey;
@@ -76,6 +81,7 @@ ul>li{
 #intrest{
     color: blue;
     text-align: center;
+    text-decoration: underline;
 }
 #am{
     background-color: grey;
@@ -93,4 +99,5 @@ ul>li{
 }
 #contacts{
     color: blue;
+    text-decoration: underline;
 }
