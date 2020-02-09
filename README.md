@@ -12,6 +12,8 @@ Hamza Salat Aden
 3.From terminal you use '$ git clone https://github.com/konstant-cloud/Portfolio-
 
 ## link to live site on GitHub Pages
+https://konstant-cloud.github.io/Portfolio-/
+
 
 ## contact details
 adenhamza6301@gmail.com
