@@ -85,7 +85,12 @@ ul>li{
     margin-left: 450px;
     padding: 25px;
 }
-
-
-
-
+#here{
+    color: black;
+}
+#lid{
+    color: blue;
+}
+#contacts{
+    color: blue;
+}
