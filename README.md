@@ -18,4 +18,5 @@ https://konstant-cloud.github.io/Portfolio-/
 ## contact details
 adenhamza6301@gmail.com
 
-## License ([MIT License])
+## License ([MIT License] (https://github.com/konstant-cloud/Portfolio-/blob/cloud/LICENSE))
+This project is licensed under the MIT Open Source license, (c) [Hamza Salat]( )
